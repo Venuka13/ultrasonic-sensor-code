@@ -1,4 +1,4 @@
-# ultrasonic-sensor-code
+
 #  Ultrasonic Radar Tracking System
 
 A 2-part mechatronics engineering project that uses an ultrasonic sensor swept by a servo motor to map surrounding objects, outputting a live radar sweep on a digital interface.
